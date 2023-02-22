@@ -1,0 +1,2 @@
+# .anote
+.anote
