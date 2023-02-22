@@ -1,0 +1,10 @@
+# config
+- git config --global user.name "your_username"
+- git config --global user.email you_email@domain.com
+- git config --list
+- ssh-keygen -t rsa -C "11122334@qq.com"
+
+# log
+
+#branch
+- git branch
